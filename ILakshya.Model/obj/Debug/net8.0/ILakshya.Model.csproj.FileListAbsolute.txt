@@ -1,0 +1,12 @@
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
